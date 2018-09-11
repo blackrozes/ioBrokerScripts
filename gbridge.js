@@ -2,7 +2,7 @@
 
 Connect ioBroker states with mqtt gBridge gbridge.kappelt.net to get google assistant / home support
 
-To use this script add the mqtt npm package to js adapte.
+To use this script add the mqtt npm package to js adapter.
 
 */
 
