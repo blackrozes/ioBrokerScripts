@@ -26,7 +26,7 @@ var checkRain = setInterval(function(){
     var recheckStations = 1;
     
     /*iobroker State e.g. netatmo.0.rain*/
-    iobrokerState = "";
+    var iobrokerState = "";
     
     /*APP*/
     var clientId = '';
