@@ -44,7 +44,7 @@ var checkRain = setInterval(function(){
     client.getToken({
     	grant_type: 'password',
     	username: username, 
-    	password: 'password
+    	password: password
     }, function (err, result) {
         if (err) {
            console.log(err);
